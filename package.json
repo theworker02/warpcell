@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/warpcell",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Warp CSV/TSV cell tables for quick inspection and cleanup.",
+  "bin": {
+    "warpcell": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/warpcell.git"
+  },
+  "homepage": "https://theworker02.github.io/warpcell/",
+  "keywords": [
+    "warp",
+    "cell",
+    "csv",
+    "cli",
+    "toolkit"
+  ]
+}
